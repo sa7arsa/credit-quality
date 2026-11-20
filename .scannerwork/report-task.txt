@@ -1,0 +1,6 @@
+organization=sa7arsa
+projectKey=sa7arsa_credit-quality
+serverUrl=https://sonarcloud.io
+dashboardUrl=https://sonarcloud.io/dashboard?id=sa7arsa_credit-quality
+ceTaskId=AaH24geQhjDxhwBy8aoG
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AaH24geQhjDxhwBy8aoG
